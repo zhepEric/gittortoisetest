@@ -9,6 +9,7 @@ import android.content.Context
 class MyApplication : Application() {
     override fun onCreate() {
         super.onCreate()
+        Log.i("sss","你好")
     }
 
     override fun attachBaseContext(base: Context?) {
