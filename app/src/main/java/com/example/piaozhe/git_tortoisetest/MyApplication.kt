@@ -10,7 +10,8 @@ import android.util.Log
 class MyApplication : Application() {
     override fun onCreate() {
         super.onCreate()
-        Log.i("hahah","what fuck")
+        Log.i("hahah","what fuck next")
+        Log.i("hahah","what fuck next1")
     }
 
     override fun attachBaseContext(base: Context?) {
