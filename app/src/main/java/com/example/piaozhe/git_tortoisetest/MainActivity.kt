@@ -10,6 +10,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.i("TAG","hello world")
+        Log.i("TAG","fixed bug")
+
     }
 
     override fun onRestart() {
