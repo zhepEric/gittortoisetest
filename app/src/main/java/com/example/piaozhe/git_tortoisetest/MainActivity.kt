@@ -11,6 +11,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.i("TAG","hello world")
         Log.i("TAG","fixed bug")
+        Log.i("TAG","squash code commit")
+
+
+
+
 
     }
 
